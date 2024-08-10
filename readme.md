@@ -2,7 +2,7 @@
 
 ## Description
 
-The MySQL Helper Tool is a command-line utility for managing MySQL databases. It provides options to create new databases and tables, use existing databases and tables, and add fields to tables. Users can interact with the tool in either Spanish or English.
+The MySQL Helper Tool is a command-line utility for managing MySQL databases. It provides options to create new databases and tables, use existing databases and tables, add fields to tables, and now also supports editing and deleting fields. Users can interact with the tool in Spanish, English, or French.
 
 ## Requirements
 
@@ -64,19 +64,19 @@ Ensure you have Python 3.6 or higher installed. The tool also requires the follo
 1. **Run the script**:
    
    ```bash
-   python helper.py
+   python main.py
    ```
 
 2. **Select the language**:
    
-    When running the script, you'll be prompted to select the language for the interface. Enter `1` for Spanish or `2` for English.
+    When running the script, you'll be prompted to select the language for the interface. Enter `1` for Spanish, `2` for English, or `3` for French.
 
 3. **Manage the database**:
    
    - **Create a new database**: Choose the option to create a new database and enter its name.
    - **Use an existing database**: List available databases and select the one you wish to use.
    - **Create a new table**: Specify the table name and define its fields.
-   - **Use an existing table**: List existing tables and select one. You can also add new fields to the selected table.
+   - **Use an existing table**: List existing tables and select one. You can also add, edit, or delete fields from the selected table.
 
 4. **Exit**:
    
