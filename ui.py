@@ -19,7 +19,7 @@ class UserInterface:
 | 'V' || _|| || \_| \/ | \_/ | _|    | || \/ | | \_/ |`. .'`._`.| \/ | |_  | >< | _|| |_| v_/ _|| v / 
 !_/ \_!|___|___\__/\__/|_| |_|___|   |_| \__/  |_| |_| !_! |___/ \_V_\___| |_||_|___|___|_| |___|_|_\ 
 
-Development by Juanses03
+Development by JuansesDev
 {Style.RESET_ALL}
 """
         print(welcome_message)

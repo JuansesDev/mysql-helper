@@ -32,7 +32,7 @@ Ensure you have Python 3.6 or higher installed. The tool requires the following 
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/Juanses03/mysql-helper
+   git clone https://github.com/JuansesDev/mysql-helper
    cd mysql-helper
    ```
 
@@ -172,7 +172,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or issues, please open an issue on the [GitHub repository](https://github.com/Juanses03/mysql-helper).
+For any questions or issues, please open an issue on the [GitHub repository](https://github.com/JuansesDev/mysql-helper).
 
 ## Changelog
 
